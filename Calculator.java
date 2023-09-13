@@ -10,7 +10,7 @@ public class Calculator {
             System.out.print("Enter the operator: ");
             char op = in.next().trim().charAt(0);
 
-            if (op == '+' || op == '-' || op == '*' || op == '/' || op == '%') {
+            if (op == '+' || op == '-' || op == '*' || op == '/' || op == '%' || op == '<' || op == '>' || op == '=' ) {
                 // input two numbers
                 System.out.println("Input any two number:");
                 System.out.print("Enter the 1st number: ");
@@ -35,7 +35,14 @@ public class Calculator {
                 if (op == '%') {
                     ans = num1 % num2;
                 }
-            } else if (op == 'x' || op == 'X')
+                if (op == '=') {
+                    if (num1 == num2)
+                        System.out.println("yes both are equal");
+                    else if ( num1 != num2 )
+                        System.out.println("sorry but number 1st and 2nd are not equal");
+                    }
+                }
+            else if (op == 'x' || op == 'X')
             {
                 System.out.println("\u001B[31m" + "Successfully exit." + "\u001B[0m");
                 break;
