@@ -1,6 +1,6 @@
 **c programming /mini projects /online banking management**
 
-# Synopsis for project on C programming online bank management:
+**Synopsis for project on C programming online bank management:**
 
 Title: Bank Management System
 
