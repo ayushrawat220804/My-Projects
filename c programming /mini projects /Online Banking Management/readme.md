@@ -1,6 +1,6 @@
 **Synopsis for project on C programming online bank management:**
 
-> Note Thanks to the internet community for their invaluable support and resources.
+> # Note # : Thanks to the internet community for their invaluable support and resources.
 
 
 Title: Bank Management System
