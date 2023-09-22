@@ -1,5 +1,8 @@
 **Synopsis for project on C programming online bank management:**
 
+> Note Thanks to the internet community for their invaluable support and resources.
+
+
 Title: Bank Management System
 
 Objective: The objective of this project is to develop an online bank management system using the C programming language. The system aims to provide a user-friendly interface for customers to perform various banking operations, such as opening accounts, managing transactions, and generating reports.
