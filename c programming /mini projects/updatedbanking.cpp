@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<string.h>
 #include<stdlib.h>
-#incldue<math.h>
+#include<math.h>
 
 
 struct user {
